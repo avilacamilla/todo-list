@@ -1,16 +1,22 @@
 {
-    "tasks": [
-        {
-            "id": "1",
-            "tarefa": "Estudar JavaScript",
-            "categoria": "Pessoal",
-            "concluído": false
-        },
-        {
-            "id": "1",
-            "tarefa": "Estudar Angular",
-            "categoria": "Terra Magna",
-            "concluído": false
-        }
-    ]
+  "tasks": [
+    {
+      "id": "1",
+      "tarefa": "Estudar JavaScript",
+      "categoria": "Pessoal",
+      "concluído": false
+    },
+    {
+      "id": "2",
+      "tarefa": "Estudar Angular",
+      "categoria": "Terra Magna",
+      "concluído": false
+    },
+    {
+      "id": "3",
+      "tarefa": "Estudar TypeScript",
+      "categoria": "Pessoal",
+      "concluido": false
+    }
+  ]
 }
