@@ -1,0 +1,16 @@
+{
+    "tasks": [
+        {
+            "id": "1",
+            "tarefa": "Estudar JavaScript",
+            "categoria": "Pessoal",
+            "concluído": false
+        },
+        {
+            "id": "1",
+            "tarefa": "Estudar Angular",
+            "categoria": "Terra Magna",
+            "concluído": false
+        }
+    ]
+}
